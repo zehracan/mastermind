@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.container{
+  background-color:#e6b3e4;
+  border: 5px solid purple;
+  width:400px;
+}
+
+.bilgi{
+  background-color:#e6b3e4;
+  border: 5px solid purple;
+  width:800px;
+}
+
